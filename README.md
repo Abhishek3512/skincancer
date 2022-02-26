@@ -5,4 +5,4 @@ This is an app Based Application not a web based anyone can get this code and im
 Though the Application-based project will be helpfull and easy to access the user as well to the developer.
 
 
-https://abhishek3512.github.io/skincancer/ click here to open directly on webpage.
+https://abhishek3512.github.io/skincancer/ 
